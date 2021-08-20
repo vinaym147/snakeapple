@@ -1,4 +1,5 @@
-# snake
+# snake and apple
+This repository contains python based interactive Snake-And-Apple game.
 
 controls
 
